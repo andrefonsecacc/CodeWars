@@ -5,7 +5,7 @@ These are my solutions to [codewars](http://codewars.com) [code katas](https://e
 
 Programing Languages:
 
-** Java
+## Java
 
 Thank you!
 
