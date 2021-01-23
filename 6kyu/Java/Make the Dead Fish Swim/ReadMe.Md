@@ -8,6 +8,6 @@ s squares the value
 o outputs the value into the return array
 Invalid characters should be ignored.
 
-```
+```java
 Deadfish.parse("iiisdoso") =- new int[] {8, 64};
 ```
