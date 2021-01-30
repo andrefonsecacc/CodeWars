@@ -9,6 +9,7 @@ Programing Languages:
 
 ## Java
 ## JavaScript
+## SQL
 
 Thank you!
 
