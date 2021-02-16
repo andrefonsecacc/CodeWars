@@ -3,7 +3,7 @@
   Solutions of CodeWars Challanges
 </h6>
 
-###Introduction
+<h3>Introduction</h3>
 
 These are my solutions to [codewars](http://codewars.com) [code katas](https://en.wikipedia.org/wiki/Kata_(programming)). My profile in codewars can be found [here](https://www.codewars.com/users/andrefonsecacc). 
 
