@@ -11,17 +11,16 @@ Will try to make a problem per day.
 
 Programing Languages used on the Challanges:
 
-#### Java
-#### JavaScript
-#### SQL
-
-Thank you!
+- Java
+- JavaScript
+- SQL
 
 This is my Codewarrior Profile Badge, current status: 
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/andrefonsecacc/badges/large)
-
-### Repository Structure
+<p align="center">
+<img align="center" src=https://www.codewars.com/users/andrefonsecacc/badges/large />
+</p>
+<h3> Repository Structure</h3>
 
 There's a folder for each kata nested in its own kyu
 
