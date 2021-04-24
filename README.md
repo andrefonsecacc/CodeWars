@@ -14,6 +14,7 @@ Programing Languages used on the Challanges:
 - Java
 - JavaScript
 - SQL
+- PHP
 
 This is my Codewarrior Profile Badge, current status: 
 
